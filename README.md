@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Lee%20jae%20young&fontSize=90)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee%20jae%20young&fontSize=60)
+![JAYJAY1005's github stats](https://github-readme-stats.vercel.app/api?username=JAYJAY1005&show_icons=true)
 <!--
 **JAYJAY1005/JAYJAY1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
